@@ -1,3 +1,7 @@
-### Handwritten digits classification using neural network
+### HandWritten-DIGIT-Classification using neural network
 
-In this notebook we will classify handwritten digits using a simple neural network which has only input and output layers. We will than add a hidden layer and see how the performance of the model improves
+
+* Hi, In This repository I created a simple neural network where i loaded the dataset from keras and predicted the hand 
+  written digits and then added a hidden layer and again tested the model !
+
+
